@@ -1,0 +1,3 @@
+Esta es la historia de Johnny.
+
+Aprendido como es esto de Git.
