@@ -2,6 +2,6 @@ Esta es la historia de Johnny.
 
 Aprendido como es esto de Git.
 
-Anita Plati nace en internet y tiene 390 años. 
+Anita Plati nace en internet y estoy colaborando en este proyecto Opensource, adicional tiene 390 años. 
 
 Mañana nos enfocaremos en otro curso.
