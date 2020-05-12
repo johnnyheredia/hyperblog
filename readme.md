@@ -15,4 +15,4 @@ Indented 4 spaces, like `<pre>` (Preformatted Text).
 
 Creado por el Increible Johnny Heredia :D
 * Incluye cambios reaizados en Windows, Linux y Mac.
-* Disponible para todas las edades. 
+* Disponible para todas las edades.
