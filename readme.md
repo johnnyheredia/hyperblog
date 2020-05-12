@@ -13,4 +13,4 @@ Indented 4 spaces, like `<pre>` (Preformatted Text).
         echo "Hello world!";
     ?>
 
-###End
+Creado por el Increible Johnny Heredia :D
